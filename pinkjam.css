@@ -5,6 +5,12 @@ body {
      font-family: Verdana, Arial, sans-serif;
 	}
 
+.category { 
+            font-weight: bold;
+            color: #003366; 
+            font-size: 1.1em;
+}
+
 header { 
 	background-color: #ffc0cb;
 	height: 150px;
