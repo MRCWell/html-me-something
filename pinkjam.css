@@ -1,0 +1,73 @@
+body {  
+	background-image: url("background.gif");
+	background-color: #ffffff; 
+    color: #221811;
+     font-family: Verdana, Arial, sans-serif;
+	}
+
+header { 
+	background-color: #ffc0cb;
+	height: 150px;
+	background-image: url("pinkjamlogo.jpg");
+	background-repeat: no-repeat;
+
+    	}
+
+main {
+	padding-left: 2em;
+	padding-bottom: 2em;
+	padding-right: 2em;
+	display: block;
+}
+h1 { 
+	padding-top: 45px;
+	padding-left: 220px;
+	font-size: 3em; 
+	}
+
+h4 { 
+	background-color: #ffc0cb;
+	font-size: 1.2em;
+	padding-left: 10px;
+	padding-bottom: 5px 
+	}
+
+nav { 
+	text-align: center;
+	font-size: 1.5em;
+	padding-top: 10px; 
+    font-weight: bold; 
+	}
+
+nav a { 
+	text-decoration: none; 
+		}
+
+footer { 
+	background-color: #ffc0cb;
+    padding-bottom: 10px;
+    border-top:  2px solid #ffc0cb;
+    font-size: small;
+	font-style: italic;
+	text-align: center;
+	}
+
+#wrapper { 	
+	background-color: #FEF6C2; 
+	min-width: 900px;
+	max-width: 1280px;
+	box-shadow: drop-shadow;
+	width: 80%;
+    margin-right: auto;
+	margin-left: auto;}
+
+#details {
+	padding-left: 20%;
+	padding-right: 20%;
+
+		}
+
+img {padding-left: 10px;
+	padding-right: 10px;
+
+}
